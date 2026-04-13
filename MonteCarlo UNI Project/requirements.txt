@@ -1,0 +1,19 @@
+# Monte Carlo Option Pricing Project Dependencies
+
+# Core numerical computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data analysis and plotting
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
+# Testing
+pytest>=7.0.0
+
+# Optional: For enhanced plotting
+seaborn>=0.12.0
